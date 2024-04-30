@@ -57,6 +57,7 @@
   font-size: 16px;
   line-height: 20px;
   transition: opacity 0.3s ease;
+  border-style: none;
 }
 
 .form__button:hover {
