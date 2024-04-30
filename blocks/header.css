@@ -1,4 +1,8 @@
 .header {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative;
   background-color: #fff;
   background-image: url(../images/background_header.svg);
   background-repeat: no-repeat;
