@@ -32,6 +32,8 @@
   font-size: 60px;
   line-height: 72px;
   color: #2f80ed;
+  display: block;
+  text-wrap: wrap;
 }
 
 .header__description {
