@@ -1,6 +1,7 @@
 # Triple Peaks Coffee Shop
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+you can find it here: https://ajela13.github.io/se_project_coffeeshop/index.html
 
 ## Project features
 
